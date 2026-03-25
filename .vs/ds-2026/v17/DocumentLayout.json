@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|c:\\users\\0shur\\desktop\\distributed-programming\\valuator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|solutionrelative:valuator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|c:\\users\\0shur\\desktop\\distributed-programming\\valuator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|solutionrelative:valuator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|c:\\users\\0shur\\desktop\\distributed-programming\\valuator\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|solutionrelative:valuator\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|c:\\users\\0shur\\desktop\\distributed-programming\\valuator\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|solutionrelative:valuator\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|c:\\users\\0shur\\desktop\\distributed-programming\\valuator\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|solutionrelative:valuator\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|c:\\users\\0shur\\desktop\\distributed-programming\\valuator\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|solutionrelative:valuator\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|c:\\users\\0shur\\desktop\\distributed-programming\\valuator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB3B7AF3-09CB-8246-6EE6-CF385AAB4AA1}|Valuator\\Valuator.csproj|solutionrelative:valuator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Valuator\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Valuator\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T11:13:36.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Valuator\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Valuator\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T11:13:28.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "Valuator\\Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\About.cshtml",
+              "RelativeToolTip": "Valuator\\Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T11:13:24.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Valuator\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Valuator\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T11:13:23.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Valuator\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Valuator\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T11:13:18.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Program.cs",
+              "RelativeDocumentMoniker": "Valuator\\Program.cs",
+              "ToolTip": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\Program.cs",
+              "RelativeToolTip": "Valuator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T11:13:08.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\appsettings.json",
+              "RelativeDocumentMoniker": "Valuator\\appsettings.json",
+              "ToolTip": "C:\\Users\\0Shur\\Desktop\\DISTRIBUTED-PROGRAMMING\\Valuator\\appsettings.json",
+              "RelativeToolTip": "Valuator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-15T11:13:03.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
